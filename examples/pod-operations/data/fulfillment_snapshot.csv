@@ -1,0 +1,4 @@
+sku,as_of,capacity_48h_units,capacity_status,proof_template_status,design_license_status,quality_status,owner,is_synthetic
+POD-TEE-01,2026-09-10T09:00:00+08:00,16,confirmed,approved,approved,clear,陈星,True
+POD-MUG-02,2026-09-10T09:00:00+08:00,60,confirmed,approved,approved,hold_pending_review,顾宁,True
+POD-HOOD-04,2026-09-10T09:00:00+08:00,,unconfirmed,pending,unconfirmed,clear,陈星,True

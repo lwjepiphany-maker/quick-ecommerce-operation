@@ -1,0 +1,6 @@
+﻿sku,product_name,brand,material,personalization,production_business_days,us_shipping_business_days,uk_shipping_business_days,care,claim_rule,is_synthetic
+POD-TEE-01,Family Name Tee,NorthPine Demo,100% cotton,姓名；尺码；确认稿,2–4,5–8,7–10,冷水反面洗涤；勿漂白,不得承诺下单后3天送达,True
+POD-MUG-02,Name Keepsake Mug,NorthPine Demo,"Ceramic, 11 oz",姓名；字体；确认稿,3–5,5–8,7–10,建议手洗,无证据不得宣称可微波加热,True
+POD-TOTE-03,Everyday Name Tote,Kindred Demo,Cotton canvas,姓名；颜色；确认稿,2–3,5–8,7–10,局部清洁,无认证不得宣称有机,True
+POD-HOOD-04,Initial Hoodie,Kindred Demo,Cotton/polyester blend,字母；尺码；确认稿,5–7,5–8,7–10,低温洗涤,不可写为100%纯棉,True
+POD-ORN-05,Family Ornament,NorthPine Demo,Wood,家庭名称；年份；确认稿,3–5,5–8,7–10,干燥保存,不得引用未经授权IP,True

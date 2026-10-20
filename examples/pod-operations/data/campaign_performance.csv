@@ -1,0 +1,4 @@
+sku,period_start,period_end,orders,gross_sales_usd,refund_amount_usd,production_cost_usd,shipping_cost_usd,platform_fee_usd,ad_spend_usd,attributed_ad_sales_usd,attributed_orders,attribution_status,currency,is_synthetic
+POD-TEE-01,2026-09-03,2026-09-09,80,2400,120,800,400,240,300,1000,30,complete,USD,True
+POD-MUG-02,2026-09-03,2026-09-09,100,2500,250,1000,700,250,400,1600,40,complete,USD,True
+POD-HOOD-04,2026-09-03,2026-09-09,20,1000,0,360,120,100,100,,,partial,USD,True
